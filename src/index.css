@@ -2,7 +2,82 @@
     width: 100%;
 }
 
-.footerLink{
-    align-items: center !important;
+.GeeksForGeeks {
+    background-image: 
+    url('../public/img/background.jpg');
+    background-size: "cover";
+    height: 100vh;
+    margin-top: 0%;
+    background-repeat:repeat
+}
+
+.mainBody{
+    color: white;
+}
+
+.my-pic{
+    clip-path:circle();
+    width: 300px;
+    position: relative;
+    align-items: center;
+    left: 41%;
+}
+
+.content{
+    text-align: center;
+    color: white;
+}
+
+.aboutContent{
+    margin-left: 8%;
+    padding-top: 2%;
+}
+
+.cardBody{
+    color: black;
+    max-width: 31% !important;
+    margin: 1%;
+}
+
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.resumePic{
+    height: 75vh !important;
+
+}
+
+.download{
+    margin-top: 1%;
+
+}
+
+.resumecontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactForm{
+    color: white;
+    /* width: 80%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.email{
+    width: 50%;
+}
+
+.name{
+    width: 50%;
+}
+
+.message{
+    width: 50%;
+    height: 100px;
 }
 
