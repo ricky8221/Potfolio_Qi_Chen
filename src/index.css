@@ -6,7 +6,7 @@
     background-image: 
     url('../public/img/background.jpg');
     background-size: "cover";
-    height: 100vh;
+    height:120vh;
     margin-top: 0%;
     background-repeat:repeat
 }
@@ -60,24 +60,40 @@
     align-items: center;
 }
 
-.contactForm{
+.contactBody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     color: white;
-    /* width: 80%; */
+}
+
+.contactForm{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .email{
-    width: 50%;
+    width: 200%;
+    margin-top: 10%;
 }
 
 .name{
-    width: 50%;
+    width: 200%;
+    margin-top: 10%;
 }
 
 .message{
-    width: 50%;
-    height: 100px;
+    width: 200%;
+    height: 20vh;
+    margin-top: 10%;
+
 }
 
+.submit{
+    margin-top: 10%;
+}
+
+.portfolioBody{
+    margin-bottom: 10%;
+}
