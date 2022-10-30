@@ -1,0 +1,10 @@
+
+.GeeksForGeeks {
+    background-image: 
+    url('../public/background.jpg');
+    background-size: "cover";
+    height: 100vh;
+    margin-top: 0%;
+
+    background-repeat:no-repeat; 
+  }
