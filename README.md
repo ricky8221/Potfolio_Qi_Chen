@@ -6,6 +6,7 @@
 * CSS
 * JavaScript
 * Bootstrap
+* Manifest
 
 ## Setup/Installation
 
@@ -49,6 +50,6 @@ Copyright(c) 2022 Qi Chen
 * WHEN I view the footer
 * THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
-website: https://ricky8221.github.io/Potfolio_Qi_Chen/
+website: https://ricky8221.github.io/Potfolio_Qi_Chen/ <br>
 GitHub:https://github.com/ricky8221
-![](public/img/Ricky-Portfolio.jpg)
+![](img/Ricky-Portfolio.jpg)
