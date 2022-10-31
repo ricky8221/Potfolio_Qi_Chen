@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ricky8221.github.io/Potfolio_Qi_Chen/",
   "name": "00-practice-app",
   "version": "0.1.0",
   "private": true,
@@ -21,6 +22,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-page -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
