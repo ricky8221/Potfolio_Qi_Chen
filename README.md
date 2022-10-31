@@ -6,6 +6,7 @@
 * CSS
 * JavaScript
 * Bootstrap
+* Manifest
 
 ## Setup/Installation
 
