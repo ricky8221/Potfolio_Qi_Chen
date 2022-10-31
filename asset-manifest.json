@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Potfolio_Qi_Chen/static/css/main.7c7e1ea0.css",
+    "main.js": "/Potfolio_Qi_Chen/static/js/main.77bac4ec.js",
+    "static/media/background.jpg": "/Potfolio_Qi_Chen/static/media/background.d25ec87f0d3458287852.jpg",
+    "index.html": "/Potfolio_Qi_Chen/index.html",
+    "main.7c7e1ea0.css.map": "/Potfolio_Qi_Chen/static/css/main.7c7e1ea0.css.map",
+    "main.77bac4ec.js.map": "/Potfolio_Qi_Chen/static/js/main.77bac4ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7e1ea0.css",
+    "static/js/main.77bac4ec.js"
+  ]
+}
