@@ -1,0 +1,99 @@
+.navbar{
+    width: 100%;
+}
+
+.GeeksForGeeks {
+    background-image: 
+    url('../public/img/background.jpg');
+    background-size: "cover";
+    height:120vh;
+    margin-top: 0%;
+    background-repeat:repeat
+}
+
+.mainBody{
+    color: white;
+}
+
+.my-pic{
+    clip-path:circle();
+    width: 300px;
+    position: relative;
+    align-items: center;
+    left: 41%;
+}
+
+.content{
+    text-align: center;
+    color: white;
+}
+
+.aboutContent{
+    margin-left: 8%;
+    padding-top: 2%;
+}
+
+.cardBody{
+    color: black;
+    max-width: 31% !important;
+    margin: 1%;
+}
+
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.resumePic{
+    height: 75vh !important;
+
+}
+
+.download{
+    margin-top: 1%;
+
+}
+
+.resumecontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactBody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.email{
+    width: 200%;
+    margin-top: 10%;
+}
+
+.name{
+    width: 200%;
+    margin-top: 10%;
+}
+
+.message{
+    width: 200%;
+    height: 20vh;
+    margin-top: 10%;
+
+}
+
+.submit{
+    margin-top: 10%;
+}
+
+.portfolioBody{
+    margin-bottom: 10%;
+}
