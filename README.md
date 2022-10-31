@@ -51,4 +51,4 @@ Copyright(c) 2022 Qi Chen
 
 website: https://ricky8221.github.io/Potfolio_Qi_Chen/
 GitHub:https://github.com/ricky8221
-![](public/img/Ricky-Portfolio.jpg)
+![](mg/Ricky-Portfolio.jpg)
